@@ -1,0 +1,44 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+env/
+venv/
+*.env
+*.venv
+
+# Python-specific files
+*.log
+*.pot
+*.py~
+*.pyc
+*.pyo
+*.pyd
+
+# Unit test results
+*.coverage
+.coverage.*
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Test artifacts
+*.test
+
+# Dependency directories
+pip-wheel-metadata/
+pip-log.txt
+
+# Other backups or temporary files
+*.bak
+*.tmp
